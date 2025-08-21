@@ -3,9 +3,9 @@ server:
 
 spring:
   application:
-    name: customer-service
+    name: account-service
   datasource:
-    url: jdbc:postgresql://localhost:12400/banking_customer
+    url: jdbc:postgresql://localhost:12400/banking_account
     username: postgres
     password: Kalai#8489
   jpa:
